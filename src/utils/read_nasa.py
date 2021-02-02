@@ -1,4 +1,5 @@
 # Author: Branden Ciranni <branden.ciranni@gmail.com>
+# License: MIT License
 # Last Updated: 2020-02-02
 
 '''
